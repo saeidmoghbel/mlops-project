@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saeidmoghbel/heart-disease-mlops/mlruns/167752920973726419/c48b5894328c461eb417b280ad027a02/artifacts
+end_time: 1776119281909
+entry_point_name: ''
+experiment_id: '167752920973726419'
+lifecycle_stage: active
+run_id: c48b5894328c461eb417b280ad027a02
+run_name: Random Forest
+run_uuid: c48b5894328c461eb417b280ad027a02
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1776119278667
+status: 3
+tags: []
+user_id: saeidmoghbel
